@@ -5,7 +5,9 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="GMrd9m9r9EBtN-KM-3kH-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="500" y="100" width="200" height="200" as="geometry" />
+          <mxGeometry x="500" y="100" width="200" height="200" as="geometry">
+            <mxRectangle x="500" y="100" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GMrd9m9r9EBtN-KM-3kH-4" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-3">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
@@ -17,7 +19,9 @@
           <mxGeometry x="40" y="110" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="GMrd9m9r9EBtN-KM-3kH-11" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
-          <mxGeometry x="110" y="240" width="200" height="200" as="geometry" />
+          <mxGeometry x="110" y="240" width="200" height="200" as="geometry">
+            <mxRectangle x="110" y="240" width="50" height="40" as="alternateBounds" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="GMrd9m9r9EBtN-KM-3kH-12" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-11">
           <mxGeometry y="20" width="200" height="180" as="geometry" />
