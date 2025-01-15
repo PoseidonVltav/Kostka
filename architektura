@@ -1,9 +1,33 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="26.0.5">
   <diagram name="Stránka-1" id="mUlpWBB7K1V4sd89bT88">
-    <mxGraphModel>
+    <mxGraphModel dx="1434" dy="728" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-3" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="100" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-4" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-3">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-8" value="&amp;lt;zarízení&amp;gt;&lt;div&gt;server databáze&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-3">
+          <mxGeometry x="10" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-9" value="Supabase databáze" style="whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-3">
+          <mxGeometry x="10" y="110" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-11" value="" style="swimlane;startSize=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="230" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-12" value="" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-11">
+          <mxGeometry y="20" width="200" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-13" value="&amp;lt;zarízení&amp;gt;&lt;div&gt;webová stránka&lt;/div&gt;" style="whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-11">
+          <mxGeometry x="10" y="40" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GMrd9m9r9EBtN-KM-3kH-14" value="Supabase databáze" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="GMrd9m9r9EBtN-KM-3kH-11">
+          <mxGeometry x="10" y="110" width="180" height="40" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
